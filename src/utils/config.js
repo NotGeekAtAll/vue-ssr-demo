@@ -1,0 +1,1 @@
+export const baseUrl = process.env.NODE_ENV === 'production' ? 'http://ssr.yilexxx.cn' : 'http://localhost:3000'
